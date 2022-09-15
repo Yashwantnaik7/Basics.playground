@@ -6,6 +6,7 @@ myArray.append(1) // 1 is added to array
 myArray = [] //empty again
 
 myArray.append(12)
+myArray.append(13)
 
 //repeating array
 var repeatAr = Array(repeating: 1, count: 3)

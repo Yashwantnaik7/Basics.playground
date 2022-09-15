@@ -30,11 +30,11 @@ hello team,\t\"""howareyou\"""
 
 print(mySt)
 
-//if we use single quote in three double quote then No Problem
+//if we use single quote in threedouble quote then No Problem
 let mySTR: String = """
 this is an example of "single" quote in three quote
 """
-//"""
+
 print(mySTR)
 
 

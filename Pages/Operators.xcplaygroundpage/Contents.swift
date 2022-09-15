@@ -1,4 +1,3 @@
-import UIKit
 
 //operators
 
@@ -30,7 +29,7 @@ print(z)
 
 var name = "yash"
 
-if name == "yash" {  // ther is no () for condition
+if name == "yash" {  // there is no () for condition
     print(name)
 }
 
