@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='StringLiterals'/>
+        <page name='Operators'/>
+        <page name='CodeWar'/>
+        <page name='Protocol'/>
+        <page name='Array'/>
+        <page name='Functions'/>
+        <page name='Set'/>
+        <page name='Dictionary'/>
+        <page name='ValueTypeVsRefType'/>
+        <page name='Closure'/>
+        <page name='Enumeration'/>
+        <page name='ErrorHandling'/>
+        <page name='Extension'/>
+        <page name='Intializer'/>
+        <page name='Mutating'/>
+        <page name='NewCodeWar'/>
+        <page name='Inheritance'/>
+        <page name='Delegate'/>
+        <page name='get and set'/>
+        <page name='DownCasting'/>
+    </pages>
+</playground>
